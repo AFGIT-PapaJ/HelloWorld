@@ -1,4 +1,4 @@
-' A "Hello, World!" program in Visual Basic. 
+' A "Hello, World!" program in Visual Basic used as a practive run for GIT. 
 Module Hello
   Sub Main()
       MsgBox("Hello, World!") ' Display message on computer screen.
